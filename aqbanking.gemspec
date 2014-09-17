@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Vincent Guidry"]
   spec.email         = ["vguidry@gmail.com"]
   spec.summary       = %q{a simple wrapper around aqbanking-cli}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{a simple wrapper around aqbanking-cli}
   spec.homepage      = ""
   spec.license       = "MIT"
 
